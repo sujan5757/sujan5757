@@ -2,6 +2,7 @@
 <h3 align="center">Tech Enthusiast || Programmer ||Sports</h3>
 
 <p align="left"> <a href="https://twitter.com/sujan_____" target="blank"><img src="https://img.shields.io/twitter/follow/sujan_____?logo=twitter&style=for-the-badge" alt="sujan_____" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan5757&label=Profile%20views&color=0e75b6&style=flat" alt="sujan5757" /> </p>
 
 - 🔭 I'm currently working on **Alva's Niramaya webpage**
 
