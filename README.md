@@ -9,7 +9,7 @@
 
 ## Skills
 
--Technical : 
+- Technical : 
 
 <br/>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -17,7 +17,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%23777BB4.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br/>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Robotic Process Automation](https://img.shields.io/badge/-Robotic Process Automation-00979D?style=for-the-badge&logo=Robotic Process Automation&logoColor=white)
 
 - Software :
 
@@ -33,12 +32,11 @@
 ![Uipath Studio](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=Uipath Studio&logoColor=white)
 
 - Content Management :
-
   <br/> Resume Building
   <br/> Social media management
   <br/> Photo, Video editing
   <br/> Content creation
-
+  
 ## Education
 
 Bachelor of Engineering: **Alva's Institute of Engineering and Technology**  
