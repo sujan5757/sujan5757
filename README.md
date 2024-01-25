@@ -1,5 +1,5 @@
 <h1 align="center">Sujan P S</h1>
-<h3 align="center">Tech Enthusiast || Web Developer || Robotic Process Automation Developer || Service Now Developer || Athlete || Immediate Joiner </h3>
+<h3 align="center">Tech Enthusiast || Web Developer || RPA Developer || Service Now Developer || Athlete || Immediate Joiner </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan5757&label=Profile%20views&color=0e75b6&style=flat" alt="sujan5757" /> </p>
 
@@ -20,8 +20,8 @@
 
 - Software :
 
-![UiPath](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=white)
-![Robotics Process Automation](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![UiPath](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=UiPath&logoColor=white)
+![Robotics Process Automation](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=RPA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -73,11 +73,13 @@ _November 2020 - May 2024 (Expected)_
 - Successfully solved over 200 problems on CodeChef,Leetcode , GeekforGeeks  using the C and Java programming language.
 - Achieved a CodeChef rating of 1539, earning a TwoStar badge
 
-## Content Management :
-  <br/> Resume Building
-  <br/> Social media management
-  <br/> Photo, Video editing
-  <br/> Content creation
+## Content Management 
+- Resume Building
+- Social media management
+- Photo, Video editing
+- Content creation
+  
+## GitHub Works
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujan5757&show_icons=true&locale=en&layout=compact" alt="sujan5757" /></p>
 
