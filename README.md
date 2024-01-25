@@ -11,33 +11,27 @@
 
 - Technical : 
 
-<br/>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-<br/>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23777BB4.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<br/>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - Software :
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<br/>![Figma](https://img.shields.io/badge/Figma-%23039BE5.svg?style=for-the-badge&logo=Figma)
+![Figma](https://img.shields.io/badge/Figma-%23039BE5.svg?style=for-the-badge&logo=Figma)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<br/>![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-<br/>![Uipath Studio](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=Uipath&logoColor=white)
+![Uipath Studio](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=Uipath&logoColor=white)
 ![Robotic-Process-Automation](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=RPA&logoColor=white)
 
-- Content Management :
-  <br/> Resume Building
-  <br/> Social media management
-  <br/> Photo, Video editing
-  <br/> Content creation
-  
 ## Education
 
 Bachelor of Engineering: **Alva's Institute of Engineering and Technology**  
@@ -72,13 +66,19 @@ _November 2020 - May 2024 (Expected)_
 - The Customer class manages customer data, and the Room class handles hotel room information.
 - HRMS aims to optimize reservations by organizing and streamlining customer and room data.
 
- 
 ## Achievements
 
 - Currently serving as the **secretary** of My department, holding a leadership role with responsibilities related to departmental Events.
 - Represented at the **national level** in Ball Badminton on **two occasions**, demonstrating excellence in the sport.
 - Successfully solved over 200 problems on CodeChef,Leetcode , GeekforGeeks  using the C and Java programming language.
 - Achieved a CodeChef rating of 1539, earning a TwoStar badge
+- 
+## Content Management :
+
+  <br/> Resume Building
+  <br/> Social media management
+  <br/> Photo, Video editing
+  <br/> Content creation
 
  ![Snake](https://github.com/apoorv-5369/apoorv-5369/blob/output/github-contribution-grid-snake.svg)
 
