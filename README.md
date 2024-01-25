@@ -20,6 +20,8 @@
 
 - Software :
 
+![UiPath](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=white)
+![Robotics Process Automation](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -29,8 +31,6 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Uipath Studio](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=Uipath&logoColor=white)
-![Robotic-Process-Automation](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=RPA&logoColor=white)
 
 ## Education
 
@@ -72,18 +72,13 @@ _November 2020 - May 2024 (Expected)_
 - Represented at the **national level** in Ball Badminton on **two occasions**, demonstrating excellence in the sport.
 - Successfully solved over 200 problems on CodeChef,Leetcode , GeekforGeeks  using the C and Java programming language.
 - Achieved a CodeChef rating of 1539, earning a TwoStar badge
-- 
-## Content Management :
 
+## Content Management :
   <br/> Resume Building
   <br/> Social media management
   <br/> Photo, Video editing
   <br/> Content creation
 
- ![Snake](https://github.com/apoorv-5369/apoorv-5369/blob/output/github-contribution-grid-snake.svg)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujan5757&show_icons=true&locale=en&layout=compact" alt="sujan5757" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujan5757&show_icons=true&locale=en" alt="sujan5757" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujan5757&" alt="sujan5757" /></p>
