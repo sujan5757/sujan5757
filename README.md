@@ -102,7 +102,7 @@ Oct 22 - Dec 22
 - Content creation
 
 ## certificates
-# View Certificates(https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
+#### View Certificates(https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
 
 ## GitHub Works
 
