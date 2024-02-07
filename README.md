@@ -56,18 +56,18 @@ Mar 23 - May 23
 
 ### Identity management System Using BlockChain
 Nov 23 - Present
-– Distinguishing protocol needed for identifying human beings and organizations online.
-– Organizations maintain inefficient databases, leading to redundancy and security issues.
-– Current data breaches reveal vulnerabilities, highlighting the inefficiency of current systems.
-– Blockchain-based identification management explored for enhanced security and efficiency.
-
+- Distinguishing protocol needed for identifying human beings and organizations online.
+- Organizations maintain inefficient databases, leading to redundancy and security issues.
+- Current data breaches reveal vulnerabilities, highlighting the inefficiency of current systems.
+- Blockchain-based identification management explored for enhanced security and efficiency.
+  
 ### [Weather Data Analysis Objective](https://github.com/sujan5757/Project-1-Weather-Data-Analysis )
  Nov 2023 - Dec 23
 - Perform basic statistics (mean, median, standard deviation) for MinTemp, MaxTemp, Rainfall, and Evaporation.
 - Generate a line chart to depict variations in weather variables over time, revealing trends or patterns.
 - Conduct correlation analysis, calculating and visualizing correlations between MinTemp, MaxTemp, Rainfall, and Evaporation using a heatmap.
 - Illustrate rainfall distribution through a histogram or kernel density plot, emphasizing common levels and outliers.
-- 
+  
 ### [Android ChatGPT Application](https://github.com/sujan5757/ANDROID-CHATGPT-APPLICATION)
 Jul 23 - Oct 23
 - Created an Android application using Java and integrated it with the OpenAI API to enable AI-generated responses in real-time.
