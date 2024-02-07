@@ -39,8 +39,8 @@ _November 2020 - May 2024 (Expected)_
 ## Work Experience
 ### Mulesoft Certified Developer Level 1
 Jun 23 - Sep 23
-- During the 8 week period of Virtual internship I Completed the Following Modules 
-– Mastered AnyPoint Platform basics: Application Networks, API-led Connectivity, and Core Components for integration efficiency.
+- During the 8 week period of Virtual internship I Completed the Following Modules
+- Mastered AnyPoint Platform basics: Application Networks, API-led Connectivity, and Core Components for integration efficiency.
 - Acquired skills in efficient API design and robust API building, ensuring seamless deployment.
 - Developed expertise in building Mule applications using AnyPoint Studio for scalable event manipulation.
 - Proficient in web service integration, data management, error handling, and DataWeave transformation.
