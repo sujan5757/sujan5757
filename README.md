@@ -36,7 +36,7 @@
 
 Bachelor of Engineering: **Alva's Institute of Engineering and Technology**  
 _November 2020 - May 2024 (Expected)_
-## Experience
+## Work Experience
 ### Mulesoft Certified Developer Level 1
 Jun 23 - Sep 23
 - During the 8 week period of Virtual internship I Completed the Following Modules 
