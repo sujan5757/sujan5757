@@ -60,7 +60,7 @@ Nov 23 - Present
 - Organizations maintain inefficient databases, leading to redundancy and security issues.
 - Current data breaches reveal vulnerabilities, highlighting the inefficiency of current systems.
 - Blockchain-based identification management explored for enhanced security and efficiency.
-  
+
 ### [Weather Data Analysis Objective](https://github.com/sujan5757/Project-1-Weather-Data-Analysis )
  Nov 2023 - Dec 23
 - Perform basic statistics (mean, median, standard deviation) for MinTemp, MaxTemp, Rainfall, and Evaporation.
