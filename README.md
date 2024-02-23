@@ -37,13 +37,7 @@
 Bachelor of Engineering: **Alva's Institute of Engineering and Technology**  
 _November 2020 - May 2024 (Expected)_
 ## Work Experience
-### Mulesoft Certified Developer Level 1
-Jun 23 - Sep 23
-- During the 8 week period of Virtual internship I Completed the Following Modules
-- Mastered AnyPoint Platform basics: Application Networks, API-led Connectivity, and Core Components for integration efficiency.
-- Acquired skills in efficient API design and robust API building, ensuring seamless deployment.
-- Developed expertise in building Mule applications using AnyPoint Studio for scalable event manipulation.
-- Proficient in web service integration, data management, error handling, and DataWeave transformation.
+
 
 ### Java Full Stack Development | Aptitude | Soft Skill
 Mar 23 - May 23
@@ -61,12 +55,6 @@ Nov 23 - Present
 - Current data breaches reveal vulnerabilities, highlighting the inefficiency of current systems.
 - Blockchain-based identification management explored for enhanced security and efficiency.
 
-### [Weather Data Analysis Objective](https://github.com/sujan5757/Project-1-Weather-Data-Analysis )
- Nov 2023 - Dec 23
-- Perform basic statistics (mean, median, standard deviation) for MinTemp, MaxTemp, Rainfall, and Evaporation.
-- Generate a line chart to depict variations in weather variables over time, revealing trends or patterns.
-- Conduct correlation analysis, calculating and visualizing correlations between MinTemp, MaxTemp, Rainfall, and Evaporation using a heatmap.
-- Illustrate rainfall distribution through a histogram or kernel density plot, emphasizing common levels and outliers.
   
 ### [Android ChatGPT Application](https://github.com/sujan5757/ANDROID-CHATGPT-APPLICATION)
 Jul 23 - Oct 23
@@ -81,12 +69,7 @@ Jan 23 - May 23
 - Implemented a direct transaction feature that allowed farmers to sell their produce directly to consumers through the platform.
 - Ensured a user-friendly experience with a responsive user interface utilizing Bootstrap for cross-device compatibility.
 
-### [HOTEL RESERVATION MANAGEMENT](https://github.com/sujan5757/HOTEL-RESERVATION-MANAGEMENT)
-Oct 22 - Dec 22
-- HRMS streamlines hotel reservations by managing customer and room data efficiently.
-- This project emphasizes developing key classes, Customer and Room, for an effective reservation system.
-- The Customer class manages customer data, and the Room class handles hotel room information.
-- HRMS aims to optimize reservations by organizing and streamlining customer and room data.
+
 
 ## Achievements
 
