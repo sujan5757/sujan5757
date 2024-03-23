@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan5757&label=Profile%20views&color=0e75b6&style=flat" alt="sujan5757" /> </p>
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SujanPS-blue)](https://www.linkedin.com/in/sujan-p-s-4a0415225/)
 [![Twitter](https://img.shields.io/badge/Twitter-Sujan_____-blue)](https://twitter.com/Sujan_____)
 [![Email](https://img.shields.io/badge/Email-sujanmayra6362%40gmail.com-blue)](mailto:sujanmayra6362@gmail.com)
