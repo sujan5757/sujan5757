@@ -39,6 +39,7 @@ _November 2020 - May 2024 (Expected)_
 ## Work Experience
 ### Web Developer
 Mar 24 - Apr 24
+- Completed 1-month Web Development internship at TECH-A-INTERN.
 - Honed skills, created three impressive projects during web development internship.
 - Significantly expanded web development knowledge through hands-on experience.
 - Equipped with valuable expertise for future endeavors in the field.
