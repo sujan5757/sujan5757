@@ -37,12 +37,17 @@
 Bachelor of Engineering: **Alva's Institute of Engineering and Technology**  
 _November 2020 - May 2024 (Expected)_
 ## Work Experience
+### Web Developer
+Mar 24 - Apr 24
+- Honed skills, created three impressive projects during web development internship.
+- Significantly expanded web development knowledge through hands-on experience.
+- Equipped with valuable expertise for future endeavors in the field.
 ### Data Analyst
 Dec 23 - Mar 24
-- Successfully completed a 3-month Winter internship at Nexus Info in Data Analysis, spanning from December 25, 2023, to March 25, 2024.
-- Actively engaged in diverse tasks within the Data Analysis domain, focusing on mastering the basics and main concepts of data analytics.
-- Completed one project during the internship tenure, demonstrating practical application of learned skills and concepts.
-- Gained valuable hands-on experience and knowledge in Data Analysis, contributing to professional growth and skill development.
+- Completed 3-month Winter internship at Nexus Info in Data Analysis.
+- Engaged in diverse tasks, mastering basics of data analytics.
+- Demonstrated practical application of learned skills in one project.
+- Gained valuable hands-on experience, contributing to professional growth.
 
 ### Mulesoft Certified Developer Level 1
 Jun 23 - Sep 23
