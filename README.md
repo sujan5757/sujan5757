@@ -63,6 +63,8 @@ Mar 23 - May 23
 - Engaged in soft skill training conducted by Aerodynamiks Academy for well-rounded professional development.
 
 ## certificates
+![View Certificates](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![View Certificates](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/?style=for-the-badge&logo=c&logoColor=white)
 
 ### [View Certificates](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
 
