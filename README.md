@@ -62,7 +62,7 @@ Mar 23 - May 23
 - Evaluated by CodeChef, HireMee, AMCAT, 10seconds, and Qspiders during the internship program.
 - Engaged in soft skill training conducted by Aerodynamiks Academy for well-rounded professional development.
 
-### [Certificates](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
+## [Certificates :](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
 
 ![View Certificates](https://img.shields.io/badge/ViewCertificates-%23ED8B00.svg?https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/?style=for-the-badge&logo=ViewCertificates&logoColor=white)
 
