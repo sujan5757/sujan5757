@@ -66,7 +66,7 @@ Mar 23 - May 23
 ![View Certificates](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![View Certificates](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/?style=for-the-badge&logo=c&logoColor=white)
 
-![View Certificates](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)(https://img.shields.io/badge/ViewCertificates-%23ED8B00.svg?style=for-the-badge&logo=ViewCertificates&logoColor=white)
+![View Certificates](https://img.shields.io/badge/ViewCertificates-%23ED8B00.svg?https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/?style=for-the-badge&logo=ViewCertificates&logoColor=white)
 
 ### [View Certificates](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
 
