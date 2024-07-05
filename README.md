@@ -32,10 +32,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-## Education
 
-Bachelor of Engineering: **Alva's Institute of Engineering and Technology**  
-_November 2020 - May 2024 (Expected)_
 ## Work Experience
 ### Web Developer
 Mar 24 - Apr 24
@@ -65,59 +62,10 @@ Mar 23 - May 23
 - Evaluated by CodeChef, HireMee, AMCAT, 10seconds, and Qspiders during the internship program.
 - Engaged in soft skill training conducted by Aerodynamiks Academy for well-rounded professional development.
 
-## Projects
-
-### Identity management System Using BlockChain
-Nov 23 - Present
-- Distinguishing protocol needed for identifying human beings and organizations online.
-- Organizations maintain inefficient databases, leading to redundancy and security issues.
-- Current data breaches reveal vulnerabilities, highlighting the inefficiency of current systems.
-- Blockchain-based identification management explored for enhanced security and efficiency.
-
-### [Weather Data Analysis Objective](https://github.com/sujan5757/Project-1-Weather-Data-Analysis )
- Nov 2023 - Dec 23
-- Perform basic statistics (mean, median, standard deviation) for MinTemp, MaxTemp, Rainfall, and Evaporation.
-- Generate a line chart to depict variations in weather variables over time, revealing trends or patterns.
-- Conduct correlation analysis, calculating and visualizing correlations between MinTemp, MaxTemp, Rainfall, and Evaporation using a heatmap.
-- Illustrate rainfall distribution through a histogram or kernel density plot, emphasizing common levels and outliers.
-    
-### [Android ChatGPT Application](https://github.com/sujan5757/ANDROID-CHATGPT-APPLICATION)
-Jul 23 - Oct 23
-- Created an Android application using Java and integrated it with the OpenAI API to enable AI-generated responses in real-time.
-- Developed a message processing system that efficiently handled user inputs, which were then processed by the AI model to generate coherent replies.
-- Transformed and displayed server-generated responses in a user-friendly and intuitive chat interface, enhancing the overall user experienc
-
-### [Farmer-Consumer Management System](https://github.com/sujan5757/Farmeasy)
-Jan 23 - May 23
-- Designed and developed a web-based platform using a combination of HTML, CSS, JavaScript, Bootstrap, and PHP.
-- Integrated a robust MySQL database to facilitate seamless interaction between farmers and consumers.
-- Implemented a direct transaction feature that allowed farmers to sell their produce directly to consumers through the platform.
-- Ensured a user-friendly experience with a responsive user interface utilizing Bootstrap for cross-device compatibility.
-  
-### [HOTEL RESERVATION MANAGEMENT](https://github.com/sujan5757/HOTEL-RESERVATION-MANAGEMENT)
-Oct 22 - Dec 22
-- HRMS streamlines hotel reservations by managing customer and room data efficiently.
-- This project emphasizes developing key classes, Customer and Room, for an effective reservation system.
-- The Customer class manages customer data, and the Room class handles hotel room information.
-- HRMS aims to optimize reservations by organizing and streamlining customer and room data.
-
-
-
-## Achievements
-
-- Currently serving as the **secretary** of My department, holding a leadership role with responsibilities related to departmental Events.
-- Represented at the **national level** in Ball Badminton on **two occasions**, demonstrating excellence in the sport.
-- Successfully solved over 200 problems on CodeChef,Leetcode , GeekforGeeks  using the C and Java programming language.
-- Achieved a CodeChef rating of 1539, earning a TwoStar badge
-
-## Content Management 
-- Resume Building
-- Social media management
-- Photo, Video editing
-- Content creation
-
 ## certificates
-#### View Certificates(https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
+
+### [View Certificates](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
+
 
 ## GitHub Works
 
