@@ -34,11 +34,11 @@
 
 ## [Projects :](https://projectstorage.netlify.app/)
 
-![ViewProjects](https://img.shields.io/badge/ViewProjects-%23ED8B00.svg?style=for-the-badge&logo=ViewCertificates&logoColor=white?https://projectstorage.netlify.app/)
+![ViewProjects](https://projectstorage.netlify.app/?)
 
 ## [Certificates :](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
 
-![View Certificates](https://img.shields.io/badge/ViewCertificates-%23ED8B00.svg?https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/?style=for-the-badge&logo=ViewCertificates&logoColor=white)
+![View Certificates](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
 
 ## Work Experience
 ### Web Developer
