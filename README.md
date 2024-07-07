@@ -32,6 +32,13 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+## [Projects :](https://projectstorage.netlify.app/)
+
+![View Projects](https://img.shields.io/badge/ViewCertificates-%23ED8B00.svg?https://projectstorage.netlify.app/?style=for-the-badge&logo=ViewCertificates&logoColor=white)
+
+## [Certificates :](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
+
+![View Certificates](https://img.shields.io/badge/ViewCertificates-%23ED8B00.svg?https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/?style=for-the-badge&logo=ViewCertificates&logoColor=white)
 
 ## Work Experience
 ### Web Developer
