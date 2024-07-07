@@ -62,9 +62,9 @@ Mar 23 - May 23
 - Engaged in soft skill training conducted by Aerodynamiks Academy for well-rounded professional development.
 
 ## [Projects :](https://projectstorage.netlify.app/)
-
-<a href="https://projectstorage.netlify.app/?"><button>View Projects </button>
-</a>
+<button>
+<a href="https://projectstorage.netlify.app/?">View Projects 
+</a></button>
 button
 [ViewProjects](https://projectstorage.netlify.app/?)
 
