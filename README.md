@@ -34,7 +34,7 @@
 
 ## [Projects :](https://projectstorage.netlify.app/)
 
-![ViewProjects](https://projectstorage.netlify.app/?https://img.shields.io/badge/ViewProjects-%23ED8B00.svg?style=for-the-badge&logo=ViewCertificates&logoColor=white)
+![ViewProjects](https://img.shields.io/badge/ViewProjects-%23ED8B00.svg?style=for-the-badge&logo=ViewCertificates&logoColor=white?https://projectstorage.netlify.app/)
 
 ## [Certificates :](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
 
