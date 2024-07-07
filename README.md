@@ -32,14 +32,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-## [Projects :](https://projectstorage.netlify.app/)
-
-[ViewProjects](https://projectstorage.netlify.app/?)
-
-## [Certificates :](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
-
-[View Certificates](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
-
 ## Work Experience
 ### Web Developer
 Mar 24 - Apr 24
@@ -69,9 +61,13 @@ Mar 23 - May 23
 - Evaluated by CodeChef, HireMee, AMCAT, 10seconds, and Qspiders during the internship program.
 - Engaged in soft skill training conducted by Aerodynamiks Academy for well-rounded professional development.
 
+## [Projects :](https://projectstorage.netlify.app/)
+
+[ViewProjects](https://projectstorage.netlify.app/?)
+
 ## [Certificates :](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
 
-![View Certificates](https://img.shields.io/badge/ViewCertificates-%23ED8B00.svg?https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/?style=for-the-badge&logo=ViewCertificates&logoColor=white)
+[View Certificates](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
 
 ## GitHub Works
 
