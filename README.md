@@ -34,11 +34,11 @@
 
 ## [Projects :](https://projectstorage.netlify.app/)
 
-![ViewProjects](https://projectstorage.netlify.app/?)
+[ViewProjects](https://projectstorage.netlify.app/?)
 
 ## [Certificates :](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
 
-![View Certificates](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
+[View Certificates](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
 
 ## Work Experience
 ### Web Developer
