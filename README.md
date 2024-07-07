@@ -62,10 +62,7 @@ Mar 23 - May 23
 - Engaged in soft skill training conducted by Aerodynamiks Academy for well-rounded professional development.
 
 ## [Projects :](https://projectstorage.netlify.app/)
-<button>
-<a href="https://projectstorage.netlify.app/?">View Projects 
-</a></button>
-button
+
 [ViewProjects](https://projectstorage.netlify.app/?)
 
 ## [Certificates :](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
