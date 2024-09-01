@@ -1,5 +1,5 @@
 <h1 align="center">Sujan P S</h1>
-<h3 align="center">Tech Enthusiast || Web Developer || RPA Developer || Service Now Developer || Athlete </h3>
+<h3 align="center">Tech Enthusiast || FullStack Web Developer || RPA Developer || Athlete </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan5757&label=Profile%20views&color=0e75b6&style=flat" alt="sujan5757" /> </p>
 
