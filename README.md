@@ -34,16 +34,15 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ## Work Experience
-### Software Engineer Trainee
-Jul 24 - Present
-### Web Developer
-Mar 24 - Apr 24
-### Data Analyst
-Dec 23 - Mar 24
-### Mulesoft Certified Developer Level 1
-Jun 23 - Sep 23
-### Java Full Stack Development | Aptitude | Soft Skill
-Mar 23 - May 23
+
+<ul>
+  <li>&#8226; <b>Software Engineer Trainee</b> (Jul 24 - Present)</li>
+  <li>&#8226; <b>Web Developer</b> (Mar 24 - Apr 24)</li>
+  <li>&#8226; <b>Data Analyst</b> (Dec 23 - Mar 24)</li>
+  <li>&#8226; <b>Mulesoft Certified Developer Level 1</b> (Jun 23 - Sep 23)</li>
+  <li>&#8226; <b>Java Full Stack Development | Aptitude | Soft Skill</b> (Mar 23 - May 23)</li>
+</ul>
+
 
 
 ## [Projects :](https://projectstorage.netlify.app/)
