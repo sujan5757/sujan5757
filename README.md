@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan5757&label=Profile%20views&color=0e75b6&style=flat" alt="sujan5757" /> </p>
 
 [![Portfolio](https://img.shields.io/badge/PersonalWebsite-blue)](https://sujanpsportfolio.netlify.app/) <br> <br> 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SujanPS-blue)](https://www.linkedin.com/in/sujan-p-s-4a0415225/)
-[![Twitter](https://img.shields.io/badge/Twitter-Sujan_____-blue)](https://twitter.com/Sujan_____)
-[![Email](https://img.shields.io/badge/Email-sujanmayra6362%40gmail.com-blue)](mailto:sujanmayra6362@gmail.com)
+
 
 ## Skills
 
@@ -25,10 +23,15 @@
 - Software :
 <p>
     <a>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,postman,azuredevops,swagger,vscode,visualstudio"/>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,postman,azuredevops,,uipath"/>
   </a>
+  <br>
+    <a>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger,vscode,visualstudio,canva,eclipse"/>
+  </a>
+  <br>
       <a>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,netlify,figma,uipath,canva,codepen,eclipse,jupyter"/>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,netlify,figma,codepen,jupyter"/>
   </a>
 </p>
 
@@ -50,13 +53,13 @@
 ## Connect with me :
 
 <p>
-    <a href="">
+    <a href="https://www.linkedin.com/in/sujan-p-s-4a0415225/">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
   </a>
-     <a href="">
+     <a href="mailto:sujanmayra6362@gmail.com">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
   </a>
-     <a href="">
+     <a href="https://twitter.com/Sujan_____">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=x" />
   </a>
      <a href="">
