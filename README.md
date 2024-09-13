@@ -8,20 +8,6 @@
 
 ## Skills
 
-- Technical :
-  <p>
-  <a>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,dotnet" />
-  </a>
-  <br>
-      <a>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,c,java,electron,sqlserver" />
-  </a>
-    <br>
-  <a>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,typescript,sqlite,bootstrap" />
-  </a>
-</p>
 
 
 
@@ -40,6 +26,20 @@
      </a>
 </p>
 
+- Technical :
+  <p>
+  <a>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,dotnet" />
+  </a>
+  <br>
+   <a>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,c,java,electron,sqlserver" />
+  </a>
+    <br>
+  <a>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,typescript,sqlite,bootstrap" />
+  </a>
+</p>
 ## Operating System :
 
 <p>
