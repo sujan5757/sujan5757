@@ -87,11 +87,11 @@
 
 
 
-## [Projects :](https://projectstorage.netlify.app/)
+## Projects
 
 [ViewProjects](https://projectstorage.netlify.app/?)
 
-## [Certificates :](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
+## Certificates
 
 [View Certificates](https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
 
