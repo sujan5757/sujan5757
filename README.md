@@ -11,43 +11,31 @@
 - Technical :
 
   <p>
-  <a>
-    
+  <a> 
       <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,dotnet" />
-   
   </a>
   <br>
    <a>
-   
       <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,c,java,electron,sqlserver" />
-   
   </a>
     <br>
   <a>
- 
       <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,typescript,sqlite,bootstrap" />
-  
   </a>
 </p>
 
 - Software :
 <p>
     <a>
-  
           <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,postman,azuredevops,swagger"/>
-  
     </a>
   <br>
     <a>
-    
           <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,canva,eclipse,jupyter"/>
-   
    </a>
   <br>
       <a>
-     
           <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,netlify,figma,codepen"/>
-      
      </a>
 </p>
 
@@ -56,18 +44,14 @@
 
 <p>
     <a>
-  
           <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux" />
-    
   </a>
 </p>
 
 ## Other Skills :
 <p>
     <a>
-  
           <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerpoint,word" />
-  
   </a>
 </p>
 
