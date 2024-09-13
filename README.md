@@ -74,8 +74,6 @@
   </a>
 </p>
 <br>
-<br>
-
 
 ## Work Experience
 
