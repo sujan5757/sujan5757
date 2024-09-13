@@ -12,10 +12,12 @@
   <p>
   <a>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,dotnet,electron,sqlserver" />
+      </a>
     <br>
+     <a>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,c,java,mysql,python,typescript,sqlite,bootstrap" />
-
   </a>
+
 </p>
 
 
@@ -23,7 +25,7 @@
 - Software :
 <p>
     <a>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,postman,azuredevops,,swagger"/>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,postman,azuredevops,swagger"/>
     </a>
   <br>
     <a>
