@@ -71,7 +71,8 @@
           <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" />
   </a>
 </p>
-
+<br>
+<br>
 
 
 ## Work Experience
