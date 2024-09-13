@@ -24,7 +24,7 @@
 <p>
     <a>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,postman,azuredevops,,uipath"/>
-  </a>
+    </a>
   <br>
     <a>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger,vscode,visualstudio,canva,eclipse"/>
