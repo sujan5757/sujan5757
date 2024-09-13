@@ -15,7 +15,7 @@
   <a>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,dotnet,electron,sqlserver" />
     <br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,c,java,mysql,python,typescript,sqlite" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,c,java,mysql,python,typescript,sqlite,bootstrap" />
 
   </a>
 </p>
@@ -23,18 +23,51 @@
 
 
 - Software :
+<p>
+    <a>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,postman,azuredevops,swagger,vscode,visualstudio"/>
+  </a>
+      <a>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,netlify,figma,uipath,canva,codepen,eclipse,jupyter"/>
+  </a>
+</p>
 
-![UiPath](https://img.shields.io/badge/Uipath-%2320232a.svg?style=for-the-badge&logo=UiPath&logoColor=white)
-![Robotics Process Automation](https://img.shields.io/badge/RPA-%23ED8B00.svg?style=for-the-badge&logo=RPA&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23039BE5.svg?style=for-the-badge&logo=Figma)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+## Operating System :
+
+<p>
+    <a>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux" />
+  </a>
+</p>
+
+## Other Skills :
+<p>
+    <a>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerpoint,word" />
+  </a>
+</p>
+
+## Connect with me :
+
+<p>
+    <a href="">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+  </a>
+     <a href="">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
+  </a>
+     <a href="">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=x" />
+  </a>
+     <a href="">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" />
+  </a>
+       <a href="">
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=discord" />
+  </a>
+</p>
+
+
 
 ## Work Experience
 
@@ -58,6 +91,6 @@
 
 ## GitHub Works
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujan5757&show_icons=true&locale=en&layout=compact" alt="sujan5757" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujan5757&" alt="sujan5757" /></p>
