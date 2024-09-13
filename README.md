@@ -58,6 +58,6 @@
 
 ## GitHub Works
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujan5757&show_icons=true&locale=en&layout=compact" alt="sujan5757" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujan5757&" alt="sujan5757" /></p>
