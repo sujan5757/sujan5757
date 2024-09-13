@@ -23,15 +23,15 @@
 - Software :
 <p>
     <a>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,postman,azuredevops,,uipath"/>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,postman,azuredevops,,swagger"/>
     </a>
   <br>
     <a>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger,vscode,visualstudio,canva,eclipse"/>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,canva,eclipse,jupyter"/>
   </a>
   <br>
       <a>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,netlify,figma,codepen,jupyter"/>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,netlify,figma,codepen"/>
   </a>
 </p>
 
