@@ -1,5 +1,5 @@
 <h1 align="center">Sujan P S</h1>
-<h3 align="center">Tech Enthusiast || FullStack Web Developer || RPA Developer || Athlete </h3>
+<h3 align="center">Software Engineer Trainee at Everi Holdings Inc. || FullStack Web Developer || RPA Developer || Athlete </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan5757&label=Profile%20views&color=0e75b6&style=flat" alt="sujan5757" /> </p>
 
@@ -34,33 +34,17 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ## Work Experience
+### Software Engineer Trainee
+Jul 24 - Present
 ### Web Developer
 Mar 24 - Apr 24
-- Completed 1-month Web Development internship at TECH-A-INTERN.
-- Honed skills, created three impressive projects during web development internship.
-- Significantly expanded web development knowledge through hands-on experience.
-- Equipped with valuable expertise for future endeavors in the field.
 ### Data Analyst
 Dec 23 - Mar 24
-- Completed 3-month Winter internship at Nexus Info in Data Analysis.
-- Engaged in diverse tasks, mastering basics of data analytics.
-- Demonstrated practical application of learned skills in one project.
-- Gained valuable hands-on experience, contributing to professional growth.
-
 ### Mulesoft Certified Developer Level 1
 Jun 23 - Sep 23
-- During the 8 week period of Virtual internship I Completed the Following Modules
-- Mastered AnyPoint Platform basics: Application Networks, API-led Connectivity, and Core Components for integration efficiency.
-- Acquired skills in efficient API design and robust API building, ensuring seamless deployment.
-- Developed expertise in building Mule applications using AnyPoint Studio for scalable event manipulation.
-- Proficient in web service integration, data management, error handling, and DataWeave transformation.
-
 ### Java Full Stack Development | Aptitude | Soft Skill
 Mar 23 - May 23
-- Completed a 45-day Full Stack Development, Data Structures, AI/ML internship with IIIT Allahabad collaboration.
-- Acquired practical insights in Java, Algorithms, and Soft Skills via assessments and training.
-- Evaluated by CodeChef, HireMee, AMCAT, 10seconds, and Qspiders during the internship program.
-- Engaged in soft skill training conducted by Aerodynamiks Academy for well-rounded professional development.
+
 
 ## [Projects :](https://projectstorage.netlify.app/)
 
