@@ -12,7 +12,7 @@
 
 - Technical :
   <p>
-  <a href="https://go-skill-icons.vercel.app/">
+  <a>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,dotnet,electron,sqlserver" />
     <br>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,c,java,mysql,python,typescript,sqlite" />
