@@ -36,11 +36,11 @@
 ## Work Experience
 
 <ul>
-  <li>&#8226; <b>Software Engineer Trainee</b> (Jul 24 - Present)</li>
-  <li>&#8226; <b>Web Developer</b> (Mar 24 - Apr 24)</li>
-  <li>&#8226; <b>Data Analyst</b> (Dec 23 - Mar 24)</li>
-  <li>&#8226; <b>Mulesoft Certified Developer Level 1</b> (Jun 23 - Sep 23)</li>
-  <li>&#8226; <b>Java Full Stack Development | Aptitude | Soft Skill</b> (Mar 23 - May 23)</li>
+  <li> <b>Software Engineer Trainee</b> (Jul 24 - Present)</li>
+  <li> <b>Web Developer</b> (Mar 24 - Apr 24)</li>
+  <li> <b>Data Analyst</b> (Dec 23 - Mar 24)</li>
+  <li> <b>Mulesoft Certified Developer Level 1</b> (Jun 23 - Sep 23)</li>
+  <li> <b>Java Full Stack Development | Aptitude | Soft Skill</b> (Mar 23 - May 23)</li>
 </ul>
 
 
