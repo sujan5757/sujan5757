@@ -14,15 +14,11 @@
     <a> 
       <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,dotnet"/>
     </a>
-    </p>
   <br>
-   <p>
    <a>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,c,java,electron,sqlserver"/>
   </a>
-     </p>
     <br>
-     <p>
   <a>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,typescript,sqlite,bootstrap"/>
   </a>
@@ -33,15 +29,13 @@
     <a>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,postman,azuredevops,swagger"/>
     </a>
-  </p>
+ 
   <br>
-   <p>
     <a>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,canva,eclipse,jupyter"/>
    </a>
-     </p>
+     
   <br>
-      <p>
       <a>
           <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,netlify,figma,codepen"/>
      </a>
