@@ -58,15 +58,11 @@
 ## Connect with me :
 
 <p>
-    <a href="https://www.linkedin.com/in/sujan-p-s-4a0415225/">
+    <a href="https://www.linkedin.com/in/sharavirrai/">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
   </a>
      <a href="mailto:sujanmayra6362@gmail.com">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
-  </a>
-     <a href="https://twitter.com/Sujan_____">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=x" />
-  </a>
      <a href="">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" />
   </a>
