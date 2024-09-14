@@ -12,19 +12,19 @@
 
   <p>
     <a> 
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,dotnet" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,dotnet"/>
     </a>
     </p>
   <br>
    <p>
    <a>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,c,java,electron,sqlserver" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,c,java,electron,sqlserver"/>
   </a>
      </p>
     <br>
      <p>
   <a>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,typescript,sqlite,bootstrap" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,typescript,sqlite,bootstrap"/>
   </a>
 </p>
 
