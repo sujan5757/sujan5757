@@ -79,6 +79,116 @@
 <br>
 
 
+<style>
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 100px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%; /* Position above the icon */
+  left: 50%;
+  margin-left: -50px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Show the tooltip text on hover */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+
+<p>
+    <a class="tooltip"> 
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,dotnet"/>
+      <span class="tooltiptext">HTML, CSS, JS, Angular, .NET</span>
+    </a>
+    <br>
+    <a class="tooltip"> 
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,c,java,electron,sqlserver"/>
+      <span class="tooltiptext">C#, C, Java, Electron, SQL Server</span>
+    </a>
+    <br>
+    <a class="tooltip"> 
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,typescript,sqlite,bootstrap"/>
+      <span class="tooltiptext">MySQL, Python, TypeScript, SQLite, Bootstrap</span>
+    </a>
+</p>
+
+<!-- Software -->
+<p>
+    <a class="tooltip">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,postman,azuredevops,swagger"/>
+      <span class="tooltiptext">GitHub, Git, Postman, Azure DevOps, Swagger</span>
+    </a>
+    <br>
+    <a class="tooltip">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,canva,eclipse,jupyter"/>
+      <span class="tooltiptext">VSCode, Visual Studio, Canva, Eclipse, Jupyter</span>
+    </a>
+    <br>
+    <a class="tooltip">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,netlify,figma,codepen"/>
+      <span class="tooltiptext">Ubuntu, Netlify, Figma, CodePen</span>
+    </a>
+</p>
+
+<!-- Operating System -->
+<p>
+    <a class="tooltip">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux"/>
+      <span class="tooltiptext">Windows, Linux</span>
+    </a>
+</p>
+
+<!-- Other Skills -->
+<p>
+    <a class="tooltip">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerpoint,word"/>
+      <span class="tooltiptext">Excel, PowerPoint, Word</span>
+    </a>
+</p>
+
+<!-- Connect with me -->
+<p>
+    <a class="tooltip" href="https://www.linkedin.com/in/sujan-p-s-4a0415225/">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/>
+      <span class="tooltiptext">LinkedIn</span>
+    </a>
+    <a class="tooltip" href="mailto:sujanmayra6362@gmail.com">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
+      <span class="tooltiptext">Gmail</span>
+    </a>
+    <a class="tooltip" href="https://twitter.com/Sujan_____">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=x"/>
+      <span class="tooltiptext">Twitter</span>
+    </a>
+    <a class="tooltip" href="">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram"/>
+      <span class="tooltiptext">Instagram</span>
+    </a>
+    <a class="tooltip" href="">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=discord"/>
+      <span class="tooltiptext">Discord</span>
+    </a>
+</p>
+
+
+
+
 ## Work Experience
 
 <ul>
