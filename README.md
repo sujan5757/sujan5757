@@ -7,6 +7,20 @@
 
 ## Skills
 
+
+Here's a creatively aligned and visually appealing version of your content using centered alignments and a polished structure:
+
+<div align="center">
+Sujan P S
+Software Engineer || FullStack Web Developer || RPA Developer || Athlete
+
+
+Skills
+Technical Expertise
+<p align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,dotnet" alt="Technical Skills" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,c,java,electron,sqlserver" alt="Technical Skills" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,typescript,sqlite,bootstrap" alt="Technical Skills" /> </p>
+Software Proficiency
+<p align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,postman,azuredevops,swagger" alt="Software Skills" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,canva,eclipse,jupyter" alt="Software Skills" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,netlify,figma,codepen" alt="Software Skills" /> </p>
+
 - Technical :
 
   <p>
