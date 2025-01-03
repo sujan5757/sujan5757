@@ -12,9 +12,6 @@
 - Software Proficiency
 <p align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,postman,azuredevops,swagger" alt="Software Skills" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,canva,eclipse,jupyter" alt="Software Skills" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,netlify,figma,codepen" alt="Software Skills" /> </p>
 
-
-
-
 ## Operating System :
 
 <p>
