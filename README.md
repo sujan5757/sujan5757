@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan5757&label=Profile%20views&color=0e75b6&style=flat" alt="sujan5757"/> </p>
 
-
 [![Portfolio](https://img.shields.io/badge/PersonalWebsite-blue)](https://sujanpsportfolio.netlify.app/) <br> <br> 
 
 ## Skills :
