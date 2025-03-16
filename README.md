@@ -30,7 +30,7 @@
 ## Connect with me :
 
 <p>
-    <a href="https://www.linkedin.com/in/sujan-p-s-4a0415225/">
+    <a href="">
           <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
   </a>
      <a href="mailto:sujanmayra6362@gmail.com">
