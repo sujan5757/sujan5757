@@ -7,7 +7,6 @@
 
 ## Skills :
 
-
 - Technical Expertise
 <p align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,angular,dotnet" alt="Technical Skills" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,c,java,electron,sqlserver" alt="Technical Skills" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,typescript,sqlite,bootstrap" alt="Technical Skills" /> </p>
 - Software Proficiency
